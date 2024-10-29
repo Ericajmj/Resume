@@ -2,7 +2,7 @@
 
 🌎 **Location:** Guadalajara, México  
 📧 **Email:** erica87d@gmail.com  
-🔗 **[LinkedIn](#)** • **[Portfolio](#)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/)**
 
 ---
 
