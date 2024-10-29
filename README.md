@@ -69,5 +69,5 @@ _Graduated August 2024_
 - Currently enrolled in a Data Analytics Bootcamp to continue skill development.
 
 ---
+Thank you for visiting my profile! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/) or **[Email](mailto:erica87d@gmail.com)**.
 
-Thank you for visiting my profile! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/) or Email:** erica87d@gmail.com 
