@@ -2,7 +2,7 @@
 
 🌎 **Location:** Guadalajara, México  
 📧 **Email:** erica87d@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/)** 
 
 ---
 
@@ -20,17 +20,17 @@
 
 ## 📊 Projects
 
-### Data-Driven Insights for Bike Usage Optimization _(August 2024)_
+### [Data-Driven Insights for Bike Usage Optimization](https://github.com/Ericajmj/Bike-Sharing-Usage-Weather-Impact-Dashboard-) _(August 2024)_
 - Designed an interactive Tableau dashboard featuring 5 visualizations to analyze the relationship between weather conditions and bike ride frequency.
 - Cleaned and transformed a dataset with 173,978 rows of bike-sharing data using Python (Pandas), including renaming columns, adjusting data types, and normalizing humidity values for consistency.
 - Developed 3 KPIs to track bike usage trends and weather impacts, helping optimize bike availability based on peak usage and seasonal demand patterns.
 
-### Strategic Coffee Sales Performance Dashboard _(September 2024)_
+### [Strategic Coffee Sales Performance Dashboard](https://github.com/Ericajmj/Sales-Performance-Dashboard) _(September 2024)_
 - Analyzed sales data from 1001 customers using Excel to uncover trends by coffee type, country, and purchase time, enhancing insights into customer preferences and sales performance.
 - Created 5 charts summarizing key sales metrics, including coffee types, countries, sizes, roast types, and loyalty card usage.
 - Identified market opportunities by comparing sales across regions and roast types, providing actionable insights for targeted marketing strategies.
 
-### SQL Data Exploration and Analysis _(October 2024)_
+### [SQL Data Exploration and Analysis](https://github.com/Ericajmj/SQL-Data-Exploration-and-Analysis-) _(October 2024)_
 - Conducted data analysis on 999 employees across different locations using SQL, revealing insights on average salary by city and top-performing employees.
 - Assessed supplier diversity by identifying locations with at least 3 suppliers, aiding supply chain decisions.
 - Filtered hiring data by date and location to streamline staffing trend analysis.
@@ -70,5 +70,4 @@ _Graduated August 2024_
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out via [LinkedIn](#) or [Portfolio](#) for more information.
-
+Thank you for visiting my profile! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/erica-melchor-65020229/) or Email:** erica87d@gmail.com 
